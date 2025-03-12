@@ -1,1 +1,1 @@
-## $\lambda f.(\lambda x.fxx)(\lambda x.fxx)$
+# $\lambda f.(\lambda x.fxx)(\lambda x.fxx)$
